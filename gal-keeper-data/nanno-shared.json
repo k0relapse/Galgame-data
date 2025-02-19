@@ -6265,6 +6265,106 @@
       ],
       "cover": "https://t.vndb.org/cv/29/78729.jpg",
       "title": "Nijuuei"
+    },
+    {
+      "id": "46ef4855-64e1-433a-928a-85e39baa4113",
+      "vndbId": "v3144",
+      "updateDate": 1739949693.594,
+      "alias": [
+        "Wonderful Everyday ~Diskontinuierliches Dasein~",
+        "素晴らしき日々～不連続存在～",
+        "멋진 나날들 ~ 불연속 존재 ~",
+        "Чудесные Дни: Пунктирная Жизнь",
+        "美好的每一天～不连续存在～"
+      ],
+      "description": "Subarashiki Hibi is a story told in seven chapters. The story follows a group of several Tokyo high school students mostly through July of 2012 and each chapter is told from the perspective of one of its five main characters. Because of the same timeframe coverage, certain events are overlapping from chapter to chapter but at the core of it all is a mystery revolving around the prophecy about the end of the world on July the 20th as well as the events that are following before the said date. The first part of the VN is used to make a setting for the said mysteries while the second part is about uncovering the truth behind them all.\n\nThe story begins in chapter #1, 'Down the Rabbit-Hole I\" on July 12, 2012. The protagonist, Minakami Yuki, lives a peaceful everyday life with Tsukasa and Kagami, her childhood friends, when one day she meets a mysterious girl, Takashima Zakuro (a girl in another class in Yuki's school, who seems to have met Yuki before but Yuki doesn't remember her). The strange schoolmate Yuki just befriended moves into her house (Yuki doesn't mind too much about that). Then following this new guest in Minakami's residence, Yuki's two childhood friends mentioned earlier also move in, just so that they don't feel left out. These events are just a prelude for what will ultimately lead Yuki to discover her own \"Wonderful Everyday\" during this chapter.\n\nIn chapter #2, [spoiler]\"Down the Rabbit-Hole II\", the story still follows Minakami Yuki in the same timeline as before albeit with a different set of events and their outcomes. This time, Yuki learns that Takashima Zakuro has killed herself. Rumours in school are abuzz about predictions of the end of the world in 2012 - one of which is a Web site called the \"Web Bot Project\", a network of crawlers designed to harness the 'collective unconsciousness' to make predictions. A boy in Yuki's class named Mamiya Takuji stands up and makes an apocalyptic prediction, stating that the world will end on the 20th, that Zakuro's death was the first sign. He speaks of an event he dubs \"the End Sky\", where the world will be destroyed and reborn. The clock is ticking and more people die as the prophesied date draws closer and closer while Yuki attempts to get to the bottom of the identity of Mamiya Takuji, the Web Bot Project and the End Sky.[/spoiler]\n\n[Edited from Asceai's [url=http://www.menhelmate.org/2010/04/subarashiki-hibi-furenzoku-sonzai.html]review[/url]]",
+      "tags": [
+        "Unlockable Routes",
+        "Unlockable Hero(ine)",
+        "Unlockable Protagonist",
+        "2010s",
+        "Non-Chronological",
+        "Protagonist with Multiple Personalities",
+        "Madness",
+        "Paranoia",
+        "Protagonist with a Face",
+        "Protagonist with a Sprite",
+        "Enforced Playing Order",
+        "Protagonist with Psychological Problems",
+        "Mystery",
+        "Episodic Story",
+        "Delusion",
+        "Psychological Trauma",
+        "Strong Female Protagonist",
+        "Existential Crisis",
+        "Other Perspectives",
+        "ADV",
+        "More Than Seven Endings",
+        "Protagonist with Imaginary Friends",
+        "Life and Death Drama",
+        "Cult",
+        "Delusional Protagonist",
+        "Multiple Protagonists",
+        "Death of Heroine",
+        "Denpa",
+        "Identity Crisis",
+        "Bullying"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 50,
+      "lastPlay": 0,
+      "createDate": 1739949693594,
+      "releaseDate": 1269561600000,
+      "rating": 8.7,
+      "developer": "KeroQ",
+      "images": [
+        "https://t.vndb.org/sf/75/144375.jpg",
+        "https://t.vndb.org/sf/52/187252.jpg",
+        "https://t.vndb.org/sf/53/187253.jpg",
+        "https://t.vndb.org/sf/54/187254.jpg",
+        "https://t.vndb.org/sf/60/187260.jpg",
+        "https://t.vndb.org/sf/87/188587.jpg",
+        "https://t.vndb.org/sf/97/188597.jpg",
+        "https://t.vndb.org/sf/72/188872.jpg",
+        "https://t.vndb.org/sf/73/188873.jpg",
+        "https://t.vndb.org/sf/74/188874.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Wonderful_Everyday"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/素晴らしき日々_〜不連続存在〜"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q1529879",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.mobygames.com/game/wonderful-everyday-diskontinuierliches-dasein",
+          "name": "mobygames"
+        },
+        {
+          "url": "http://howlongtobeat.com/game.php?id=48655",
+          "name": "howlongtobeat"
+        },
+        {
+          "url": "https://www.igdb.com/games/wonderful-everyday-down-the-rabbit-hole",
+          "name": "igdb_game"
+        },
+        {
+          "url": "https://www.pcgamingwiki.com/wiki/Wonderful_Everyday_Down_the_Rabbit-Hole",
+          "name": "pcgamingwiki"
+        },
+        {
+          "url": "https://lutris.net/games/wonderful-everyday-down-the-rabbit-hole",
+          "name": "lutris"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/17/90017.jpg",
+      "title": "Subarashiki Hibi ~Furenzoku Sonzai~"
     }
   ]
 }
