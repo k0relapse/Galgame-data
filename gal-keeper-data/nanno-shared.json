@@ -6427,9 +6427,15 @@
         "Lip Sync",
         "Music Recollection"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1740068158,
+          1740068788,
+          582
+        ]
+      ],
       "expectedPlayHours": 38.7,
-      "lastPlay": 0,
+      "lastPlay": 1740068788000,
       "createDate": 1740059762508,
       "releaseDate": 1711670400000,
       "rating": 8.1,
