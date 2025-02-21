@@ -5229,7 +5229,7 @@
     {
       "id": "ee704d03-bf0d-45a4-bdd5-d101858a4974",
       "vndbId": "v31136",
-      "updateDate": 1739897068.075,
+      "updateDate": 1740127787.254,
       "alias": [
         "創作彼女の恋愛公式",
         "创作少女的恋爱公式",
@@ -5268,9 +5268,15 @@
         "Few Choices",
         "Hikikomori Heroine"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1740127790,
+          1740127851,
+          44
+        ]
+      ],
       "expectedPlayHours": 25.7,
-      "lastPlay": 0,
+      "lastPlay": 1740127851000,
       "createDate": 1739896980743,
       "releaseDate": 1637884800000,
       "rating": 7.7,
