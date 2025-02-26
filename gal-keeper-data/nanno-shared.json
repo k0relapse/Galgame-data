@@ -1344,9 +1344,15 @@
         "High School Student Protagonist",
         "Middle School Student Heroine"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1740541164,
+          1740541291,
+          82
+        ]
+      ],
       "expectedPlayHours": 28.4,
-      "lastPlay": 0,
+      "lastPlay": 1740541291000,
       "createDate": 1739893399744,
       "releaseDate": 1330041600000,
       "rating": 8.2,
