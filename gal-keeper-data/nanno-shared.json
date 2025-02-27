@@ -6627,12 +6627,12 @@
       "playTimelines": [
         [
           1740675342,
-          1740676424,
-          956
+          1740677024,
+          1533
         ]
       ],
       "expectedPlayHours": 11.1,
-      "lastPlay": 1740676424000,
+      "lastPlay": 1740677024000,
       "createDate": 1740675290971,
       "releaseDate": 1493337600000,
       "rating": 7,
