@@ -358,9 +358,15 @@
         "Branching Plot",
         "Student Club President Heroine"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1740885400,
+          1740885905,
+          433
+        ]
+      ],
       "expectedPlayHours": 65.2,
-      "lastPlay": 0,
+      "lastPlay": 1740885905000,
       "createDate": 1739892589813,
       "releaseDate": 1445558400000,
       "rating": 8.8,
@@ -6713,6 +6719,67 @@
       ],
       "cover": "https://t.vndb.org/cv/42/90342.jpg",
       "title": "Panical Confusion"
+    },
+    {
+      "id": "68727bdf-54d4-46da-a5ff-a2cb9aeecf9d",
+      "vndbId": "v16103",
+      "updateDate": 1740847362.641,
+      "alias": [
+        "鯨神のティアスティラ"
+      ],
+      "description": "The water capital, Amanoshima Island, brings in many tourists with its network of canals. It became prosperous due to its ‘energy water’ industry which can be used for everything from consumption to energy, and a school was built to do further research on it. It is on this mysterious island that there is a folklore about a water god who can grant wishes.\n\nOne day, Yuuma drifted ashore in a suitcase. He met a young girl Riru, who was the kujiragami (whale god) in the legend. However, for some reason she had lost her ability to grant wishes. She asked for his help to regain her powers and thus, he became her messenger. This is the beginning of the story about the return of the legend of the water of wishes.\n\n[From [url=https://omochikaeri.wordpress.com/2015/02/01/february-2015-eroge-releases/]Hau~ Omochikaeri![/url]]",
+      "tags": [
+        "ADV",
+        "High School",
+        "Non-blood-related Brother/Sister Incest",
+        "Comedy",
+        "Oneesan-type Heroine",
+        "Goddess Heroine",
+        "Male Protagonist",
+        "Multiple Endings",
+        "Loli Heroine",
+        "Deredere Heroine",
+        "Protagonist's Childhood Friend as a Heroine",
+        "Protagonist's Non-blood-related Sister as a Heroine",
+        "Fictional Island Near Futuristic Japan",
+        "High Sexual Content",
+        "Student Heroine",
+        "Heroine with Zettai Ryouiki",
+        "Student Protagonist",
+        "Athletics Festival",
+        "Transfer Student Heroine",
+        "Branching Plot",
+        "Defloration",
+        "Sex in Public Places",
+        "Side Portraits",
+        "Only Virgin Heroines",
+        "Heroine with Visible Panties",
+        "Sixty-nine",
+        "Super Deformed CGs",
+        "Heroine with Ahoge",
+        "Intercrural Sex",
+        "Cunnilingus"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 20.1,
+      "lastPlay": 0,
+      "createDate": 1740847362641,
+      "releaseDate": 1424995200000,
+      "rating": 7.4,
+      "developer": "Whirlpool",
+      "images": [],
+      "links": [
+        {
+          "url": "https://ja.wikipedia.org/wiki/鯨神のティアスティラ",
+          "name": "jawiki"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q22126419"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/15/97115.jpg",
+      "title": "Kujiragami no Tearstilla"
     }
   ]
 }
