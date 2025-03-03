@@ -6780,6 +6780,106 @@
       ],
       "cover": "https://t.vndb.org/cv/15/97115.jpg",
       "title": "Kujiragami no Tearstilla"
+    },
+    {
+      "id": "e745756d-2f6c-4862-b560-d479ab22a1e3",
+      "vndbId": "v21552",
+      "updateDate": 1741017381.459,
+      "alias": [
+        "Making＊Lovers",
+        "突然＊恋人",
+        "突然＊戀人"
+      ],
+      "description": "For my whole life, I never had a girlfriend.\nPeople could laugh at me all they want, but I refused to give up on my ideals when it came to love.\nI had always pictured a first encounter where I knew right away she was my destined one.\nAfter several chance run-ins, we would exchange numbers. Then we would hang out together on the weekends.\nOnly once we've grown close enough would it be time for a real date.\nI wouldn't have accepted any love that didn't develop like a storybook romance.\nPicking up girls at a club or going on blind dates was out of the question for me.\nAnd so was arranged dates. How could it be romantic when someone else set you up?\nI had stood unwavering in my beliefs for my entire life.\nUntil, that is, when the words of a certain girl turned my view on love inside-out.\n\n[From [url=http://ml.nekonyansoft.com/intro.html]Nekonyansoft's official product page[/url]]",
+      "tags": [
+        "Romance",
+        "Pure Love Story",
+        "Sex with Protagonist Only",
+        "Slice of Life Comedy",
+        "Slice of Life",
+        "Pregnancy Good Ending",
+        "Changeable Font",
+        "Brother/Sister Romance",
+        "Early Branching Plot",
+        "Only Virgin Heroines",
+        "Only Good Endings",
+        "Marriage Ending",
+        "Multiple Endings",
+        "Male Protagonist",
+        "Fictional Modern Day Japanese Town",
+        "Co-worker Heroine",
+        "Heroine with Small Breasts (Non-Loli)",
+        "Protagonist's Younger Sister as a Heroine",
+        "Defloration",
+        "ADV",
+        "Model Heroine",
+        "Adult Protagonist",
+        "Ojousama Heroine",
+        "White Haired Heroine",
+        "Forbidden Love",
+        "High School Student Heroine",
+        "Heroine with Big Breasts",
+        "Co-worker Support Character",
+        "Protagonist's Non-blood-related Sister as a Heroine",
+        "Under the Same Roof"
+      ],
+      "playTimelines": [
+        [
+          1741017408,
+          1741020640,
+          2646
+        ]
+      ],
+      "expectedPlayHours": 30.7,
+      "lastPlay": 1741020640000,
+      "createDate": 1741017381459,
+      "releaseDate": 1511481600000,
+      "rating": 7.8,
+      "developer": "SMEE",
+      "images": [
+        "https://t.vndb.org/sf/70/107970.jpg",
+        "https://t.vndb.org/sf/73/107973.jpg",
+        "https://t.vndb.org/sf/74/107974.jpg",
+        "https://t.vndb.org/sf/77/107977.jpg",
+        "https://t.vndb.org/sf/78/107978.jpg",
+        "https://t.vndb.org/sf/24/136924.jpg",
+        "https://t.vndb.org/sf/45/136945.jpg",
+        "https://t.vndb.org/sf/46/136946.jpg",
+        "https://t.vndb.org/sf/92/140192.jpg",
+        "https://t.vndb.org/sf/93/140193.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/Making*Lovers"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q48938028",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/-/286321-",
+          "name": "gamefaqs_game"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=76804"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/making-lovers"
+        },
+        {
+          "url": "https://www.pcgamingwiki.com/wiki/Making*Lovers",
+          "name": "pcgamingwiki"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/making-lovers"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/98/94598.jpg",
+      "title": "Making * Lovers"
     }
   ]
 }
