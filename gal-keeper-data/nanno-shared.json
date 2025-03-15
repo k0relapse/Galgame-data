@@ -2,7 +2,9 @@
   "deleteIds": [
     "ab12a6a1-8414-46cb-afc4-15c930fdcc88",
     "c4f511aa-ab13-48b6-a004-ee88c9d911d7",
-    "51260a6c-2f1b-4dfe-aee2-5b0a89c89c09"
+    "51260a6c-2f1b-4dfe-aee2-5b0a89c89c09",
+    "90883d35-b5f8-4f82-9421-7539e38eb615",
+    "c23b7fb0-00fc-4f29-aa98-f1ed662e5549"
   ],
   "data": [
     {
@@ -6906,6 +6908,56 @@
       ],
       "cover": "https://t.vndb.org/cv/98/94598.jpg",
       "title": "Making * Lovers"
+    },
+    {
+      "id": "80f578a8-16cb-4263-87f5-7a3e4813f9f0",
+      "vndbId": "v15658",
+      "updateDate": 1741630967.73,
+      "alias": [
+        "すみれ"
+      ],
+      "description": "There is a mock school on the Internet for those who love galge and eroge, nicknamed “Galge Gakuen”. The protagonist used to be really into it, but now he only logs in as “Ken-chan” to be with his two friends, the self-proclaimed girls’ school student “Pink” and the indecent talk-loving “Tae”. They used to be no more than friends who loved galge, but now their hobbies and conversations extend beyond just that.\n\nOne day, a new student entered the school. Since her actions and speech was like a moe character, they gave her the nickname “Moe”. With the cheerful Moe in the mix, their circle of friends had grown to four. However, they were still only online friends. It was frowned upon to ask about their real lives and it was an unspoken rule to not touch this subject.\n\nThen, Ken-chan happened to meet Moe by chance in real life. He pretended that nothing happened in order to protect the relationship that their group had online. But he met her again once more soon thereafter: this time as her home tutor, and she as his new imouto from his father’s remarriage.\n\nThis is NekoNekoSoft’s 15th anniversary work, using characters from all their past games as avatars in this game blending reality and imagination. “Ken-chan” is the protagonist from [url=https://vndb.org/v192]Mizuiro[/url].\n\n[From [url=https://omochikaeri.wordpress.com/2015/05/17/may-2015-eroge-releases/]Hau~ Omochikaeri![/url]]",
+      "tags": [
+        "Suicide",
+        "Virtual Reality",
+        "Multiple Endings",
+        "One True End",
+        "Shy Heroine",
+        "Protagonist with a Face",
+        "Side Portraits",
+        "Male Protagonist",
+        "ADV",
+        "Adult Protagonist",
+        "Drama",
+        "Student Heroine",
+        "Other Perspectives",
+        "Internet",
+        "Sexual Roleplay",
+        "Tsukkomi Protagonist",
+        "Protagonist with a Sprite"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 18.5,
+      "lastPlay": 0,
+      "createDate": 1741630933285,
+      "releaseDate": 1432857600000,
+      "rating": 7,
+      "developer": "NekoNeko Soft",
+      "images": [
+        "https://t.vndb.org/sf/50/79550.jpg",
+        "https://t.vndb.org/sf/51/79551.jpg",
+        "https://t.vndb.org/sf/52/79552.jpg",
+        "https://t.vndb.org/sf/53/79553.jpg",
+        "https://t.vndb.org/sf/56/79556.jpg",
+        "https://t.vndb.org/sf/57/79557.jpg",
+        "https://t.vndb.org/sf/08/118008.jpg",
+        "https://t.vndb.org/sf/09/118009.jpg",
+        "https://t.vndb.org/sf/10/118010.jpg",
+        "https://t.vndb.org/sf/11/118011.jpg"
+      ],
+      "links": [],
+      "cover": "https://t.vndb.org/cv/41/95641.jpg",
+      "title": "Sumire"
     }
   ]
 }
